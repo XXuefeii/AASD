@@ -38,7 +38,7 @@
 |---|---|
 | Participants | 18 native Chinese young adults (18–27 years), clinically normal hearing |
 | Duration | ~18 hours (EEG + eye-tracking, simultaneous) |
-| Task | Self-initiated switches of auditory attention; **keypress** marks the switch moment |
+| Task | Spontaneous auditory attention switche; **keypress** marks the switch moment |
 | Trials | 60 per participant (6 blocks × 10 trials), **60 s** each; **block order randomized** |
 | Stimulus Layout | Two spatialized speech streams at **+90°** and **−90°** *(see [Fig. 1](#fig-1))* |
 | Speech Materials | AISHELL corpus (3 male, 3 female talkers) |
