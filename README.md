@@ -117,7 +117,7 @@ This work involved human participants. Approval for all ethical and experimental
 
 ```bibtex
 @inproceedings{Bu2017Aishell,
-  title={Aishell-1: {A}n open-source mandarin speech corpus and a speech recognition baseline},
+  title={Aishell-1: An open-source mandarin speech corpus and a speech recognition baseline},
   author={Bu, H. and Du, J. and Na, X. and Wu, B. and Zheng, H.},
   booktitle={Proceedings of the 20th International Coordinating Committee on Speech Databases and Speech I/O Systems and Assessment (O-COCOSDA)},
   pages={1--5},
